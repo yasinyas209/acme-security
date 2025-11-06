@@ -2,7 +2,6 @@
 
 > An open-source security assessment for Security Analyst positions
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](./submissions/README.md)
 
 ## 🎯 Purpose
@@ -25,12 +24,11 @@ Your mission: Analyze the incident, identify vulnerabilities, propose architectu
 
 ## ⏱️ Lab Details
 
-- **Time Required:** 4-6 hours
-- **Deadline:** Open (evaluated as received)
-- **Difficulty:** Junior to Mid-level Security Analyst
-- **Deliverables:**
-  - Written report (PDF, max 5 pages)
-  - Video presentation (10-15 minutes)
+**Deliverables:**
+- Written report (PDF, max 5 pages)
+- Video presentation (10-15 minutes)
+
+**Deadline:** Open (evaluated as received)
 
 ## 🚀 Getting Started
 
@@ -111,21 +109,40 @@ A: Tools are fine for research, but the analysis must be your own. Over-reliance
 A: Absolutely! Research MITRE ATT&CK, OWASP, and security frameworks. This mirrors real-world work.
 
 **Q: What if I can't finish in time?**  
-A: Take the time you need. We value quality over speed. The 4-6 hour estimate is a guideline.
+A: Take the time you need. We value quality over speed. Work at your own pace.
 
 **Q: Is there a single "correct" answer?**  
 A: No. We evaluate your approach, reasoning, and professionalism. Multiple solutions are valid.
 
-**Q: Can I ask questions?**  
+**Q: Can I ask questions during the lab?**  
 A: Yes! Open an [issue](../../issues) with the `question` label, or email us.
 
-## 📜 License
+**Q: What tools should I use?**  
+A: Use whatever you're comfortable with. Excel, Python, grep, text editors - all are fine. We evaluate your analysis, not your tools.
 
-This lab is released under the [MIT License](./LICENSE). Feel free to use it for learning or hiring purposes.
+**Q: How long does the evaluation take?**  
+A: We review submissions within 1 week. You'll receive feedback regardless of the outcome.
 
-## 🙏 Acknowledgments
+**Q: Can I update my submission after submitting?**  
+A: Yes, if you submit via Pull Request, you can push updates before we review it. We evaluate the latest version.
 
-This lab is designed to reflect real-world security incidents while being accessible to junior analysts. Special thanks to the security community for inspiration.
+**Q: What if I get stuck?**  
+A: That's normal! Document your thought process and explain what you tried. We value problem-solving approach over perfect answers.
+
+**Q: Is this only for experienced analysts?**  
+A: No! This lab is designed for junior to mid-level candidates. If you're learning security, this is a great opportunity to practice.
+
+**Q: Will I get feedback on my submission?**  
+A: Yes, all candidates receive feedback highlighting strengths and areas for improvement, even if not selected.
+
+**Q: Can I include this in my portfolio?**  
+A: Absolutely! If you submit publicly, it's already part of your GitHub portfolio. Even private submissions can be referenced (without sharing materials).
+
+## 📧 Contact
+
+- **Technical questions:** Open an [issue](../../issues)
+- **Private inquiries:** security-hiring@acme.com
+- **Submission problems:** Same email
 
 ---
 
